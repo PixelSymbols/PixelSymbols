@@ -6,28 +6,8 @@ I wanted to make games, i liked Unity, so i chosen it.
 I had no expirience in programming, i knew nothing at this time.
 
 # My learning curve and plans
-
-| Useful resources         	| [Roadmap.sh](http://roadmap.sh/)<br>[Patterns](https://www.patterns.dev/posts/classic-design-patterns/)<br>[javascript](https://javascript.info)<br>[C++](https://learncpp.com/)                                                                                          	|
-|--------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Theory                   	| [learncpp.com](http://learncpp.com/)  <br>[javascript.info](http://javascript.info/)  <br>[HTTP Protocol](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)<br>[DNS](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/) 	|
-| Base                     	| [HTML](https://www.w3schools.com/hTml/default.asp)<br>[CSS](https://www.w3schools.com/css/default.asp)<br>[javascript](https://javascript.info)                                                                                                                           	|
-| Code writing helper      	| [TypeScript](https://www.typescriptlang.org/)                                                                                                                                                                                                                             	|
-| interfaces and bundlers  	| [Sass](https://sass-lang.com/)<br>[React](https://reactjs.org/)<br>[Vue](https://vuejs.org/)<br>[Angular](https://angular.io/)<br>[Solid.js](https://www.solidjs.com/)                                                                                                    	|
-| Databases                	| [Redis](https://redis.io/)<br>[PostgreSQL](https://www.postgresql.org/)<br>[MongoDB](https://www.mongodb.com/)<br>[Casandra](https://cassandra.apache.org/_/index.html)                                                                                                   	|
-| Test automation          	| [snyk](https://snyk.io/)<br>[Jest](https://jestjs.io/)                                                                                                                                                                                                                    	|
-| Project management       	| Github and Git                                                                                                                                                                                                                                                            	|
-| Connections              	| REST API                                                                                                                                                                                                                                                                  	|
-| Crossplatform frameworks 	| [Docker](https://www.docker.com/)                                                                                                                                                                                                                                         	|
-
-# My Projects
-And for now developing 2 projects and 3 npm packages 😛
-| Name        | Status        | Type            | Description                                     |
-| :---------- | ------------- | :-------------- | :---------------------------------------------- |
-| `PirateEye` | *In Progress* | `CLI tool/npm package` | for searching torrent files on the web |
-| `Steamine`  | *Delayed*     | `Website`       | Allow you to earn money easily 💵💸            |
-| `fs wrapper`| *In Progress* | `npm package`   | File System has never been so easy 🧙‍♂️|
-| `debugger`  | *In Progress* | `npm package`   | allow you to debug things easily|
-
+[My useful resources list](https://github.com/PixelSymbols/UsefulResources/blob/main/README.md)
+[My projects](https://github.com/PixelSymbols/Projects) 😛
 
 
 # my history:
