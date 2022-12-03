@@ -7,6 +7,7 @@ I had no expirience in programming, i knew nothing at this time.
 
 # My learning curve and plans
 [My useful resources list](https://github.com/PixelSymbols/UsefulResources/blob/main/README.md)
+[My calendar](https://calendar.google.com/calendar/u/0?cid=cGl4ZWxzeW1ib2xzQGdtYWlsLmNvbQ)
 [My projects](https://github.com/PixelSymbols/Projects) 😛
 
 
