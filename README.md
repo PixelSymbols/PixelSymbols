@@ -11,6 +11,8 @@ I had no expirience in programming, i knew nothing at this time.
 
 [My calendar](https://calendar.google.com/calendar/u/0?cid=cGl4ZWxzeW1ib2xzQGdtYWlsLmNvbQ)
 
+[Software i use](https://github.com/PixelSymbols/MySoftware)
+
 [My projects](https://github.com/PixelSymbols/Projects) 😛
 
 
