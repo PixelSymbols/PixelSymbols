@@ -1,4 +1,5 @@
 
+
 ## 😃 About Me
 Hello, I'm a back-end stack developer. My name is ****.
 My journey started in 2019. I chose the C# language. The reason was Unity. 
@@ -23,7 +24,7 @@ I got a Certificate at the end 😄.
 
 Mine first big step in programming was a script ,
 where u could draw on ASCII screen with ASCII characters.
-![screenshot](https://media.discordapp.net/attachments/1032629714088640512/1038563144185942188/unknown.png?width=1249&height=702)
+![screenshot](https://media.discordapp.net/attachments/580394781474160641/1048649174326968340/first.png?width=1403&height=701)
 It had also a cute cursor and debug at the top.
 Movement was via arrow keys, and to draw u would need to press Enter.
 Later i added colors (RGB).
@@ -40,19 +41,7 @@ The guy i learned the most was (Big thx to him):
 [![screenshot](https://media.discordapp.net/attachments/580394781474160641/1038566178068647996/image.png)](https://www.youtube.com/c/%D0%9A%D1%80%D0%B8%D0%B2%D0%BE%D1%80%D1%83%D0%BA%D0%B8%D0%B9%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%BB%D0%B5%D1%80)
 
 My progress:
-
-25/06/2019:
-![screenshot](https://media.discordapp.net/attachments/590276277320024083/593153130536108042/unknown.png?width=1249&height=702)
-![screenshot](https://media.discordapp.net/attachments/590276277320024083/593153200240984076/unknown.png?width=1249&height=702)
-![screenshot](https://media.discordapp.net/attachments/590276277320024083/593487066956824576/unknown.png?width=1249&height=702)
-03-05/07/2019:
-![screenshot](https://media.discordapp.net/attachments/590276277320024083/596007807334219806/PORAARKI.png?width=1249&height=702)
-![screenshot](https://media.discordapp.net/attachments/590276277320024083/597531972377509959/unknown.png?width=1249&height=702)
-09-11/07/2019
-![screenshot](https://media.discordapp.net/attachments/590276277320024083/598249975025238036/unknown.png?width=1249&height=702)
-![screenshot](https://media.discordapp.net/attachments/590276277320024083/598939772634791956/unknown.png?width=1249&height=702)
-![screenshot](https://media.discordapp.net/attachments/590276277320024083/602934911137218619/optimize.png?width=347&height=702)
-
+![Progress](https://media.discordapp.net/attachments/580394781474160641/1048648572301758584/my_graph.png?width=702&height=702)
 ## 🐣Second Try
 ### **C++**
 after C# I tried C++. There were reasons:
