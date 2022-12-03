@@ -5,8 +5,34 @@ My journey started in 2019. I chose the C# language. The reason was Unity.
 I wanted to make games, i liked Unity, so i chosen it.
 I had no expirience in programming, i knew nothing at this time.
 
-# 🥚First try: Unity, C# and 3d modelling
-## **C#** and **Unity**
+# My learning curve and plans
+
+| Useful resources         	| [Roadmap.sh](http://roadmap.sh/)<br>[Patterns](https://www.patterns.dev/posts/classic-design-patterns/)<br>[javascript](https://javascript.info)<br>[C++](https://learncpp.com/)                                                                                          	|
+|--------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Theory                   	| [learncpp.com](http://learncpp.com/)  <br>[javascript.info](http://javascript.info/)  <br>[HTTP Protocol](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)<br>[DNS](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/) 	|
+| Base                     	| [HTML](https://www.w3schools.com/hTml/default.asp)<br>[CSS](https://www.w3schools.com/css/default.asp)<br>[javascript](https://javascript.info)                                                                                                                           	|
+| Code writing helper      	| [TypeScript](https://www.typescriptlang.org/)                                                                                                                                                                                                                             	|
+| interfaces and bundlers  	| [Sass](https://sass-lang.com/)<br>[React](https://reactjs.org/)<br>[Vue](https://vuejs.org/)<br>[Angular](https://angular.io/)<br>[Solid.js](https://www.solidjs.com/)                                                                                                    	|
+| Databases                	| [Redis](https://redis.io/)<br>[PostgreSQL](https://www.postgresql.org/)<br>[MongoDB](https://www.mongodb.com/)<br>[Casandra](https://cassandra.apache.org/_/index.html)                                                                                                   	|
+| Test automation          	| [snyk](https://snyk.io/)<br>[Jest](https://jestjs.io/)                                                                                                                                                                                                                    	|
+| Project management       	| Github and Git                                                                                                                                                                                                                                                            	|
+| Connections              	| REST API                                                                                                                                                                                                                                                                  	|
+| Crossplatform frameworks 	| [Docker](https://www.docker.com/)                                                                                                                                                                                                                                         	|
+
+# My Projects
+And for now developing 2 projects and 3 npm packages 😛
+| Name        | Status        | Type            | Description                                     |
+| :---------- | ------------- | :-------------- | :---------------------------------------------- |
+| `PirateEye` | *In Progress* | `CLI tool/npm package` | for searching torrent files on the web |
+| `Steamine`  | *Delayed*     | `Website`       | Allow you to earn money easily 💵💸            |
+| `fs wrapper`| *In Progress* | `npm package`   | File System has never been so easy 🧙‍♂️|
+| `debugger`  | *In Progress* | `npm package`   | allow you to debug things easily|
+
+
+
+# my history:
+## 🥚First try: Unity, C# and 3d modelling
+### **C#** and **Unity**
 
 C# i learned from **Sololearn**.
 The app had good UI and great-understandable education, with quizes after chapter.
@@ -22,7 +48,7 @@ Later i added colors (RGB).
 But i could not use C# anymore.
 I felt like C# was not good for me, and i wanted to try another language.
 
-## *3d modelling*
+### *3d modelling*
 
 Also i wanted to try myself as a 3d Designer.
 I started with 3d max. I learned it by following youtube tutorials.
@@ -44,8 +70,8 @@ My progress:
 ![screenshot](https://media.discordapp.net/attachments/590276277320024083/598939772634791956/unknown.png?width=1249&height=702)
 ![screenshot](https://media.discordapp.net/attachments/590276277320024083/602934911137218619/optimize.png?width=347&height=702)
 
-# 🐣Second Try
-## **C++**
+## 🐣Second Try
+### **C++**
 after C# I tried C++. There were reasons:
 1) it was fast and file sizes was small
 2) it was used by Unreal Engine , and i thought if i cannot stay with Unity, i can stay with Unreal Engine
@@ -53,8 +79,8 @@ after C# I tried C++. There were reasons:
 I learned it also in **Sololearn** app. Got some basic knowladge.
 But c++ was also not for me and I didn't stay here for long.
 
-# 🐤Third try: 
-## **Python**
+## 🐤Third try: 
+### **Python**
 it was 2020 year. (11 class)
 
 I decided to try something with high level.
@@ -70,8 +96,8 @@ and then i started practicing a lot. I stayed on it until 2021.
 I started feeling that with python i could not do projects that i want.
 Felt like python is not capeable with my needs.
 
-# 🕊️ Current time
-# **Javascript**
+## 🕊️ Current time
+## **Javascript**
 
 And finally i found what i needed. Switching from python to Javascript was hard at first.
 I had no clue what am i doing 😄. But i kept trying.
@@ -104,20 +130,3 @@ puppeteer
 express.js
 inquirer
 ```
-
-And for now developing 2 projects and 3 npm packages 😛
-| Name        | Status        | Type            | Description                                     |
-| :---------- | ------------- | :-------------- | :---------------------------------------------- |
-| `PirateEye` | *In Progress* | `CLI tool/npm package` | for searching torrent files on the web |
-| `Steamine`  | *Delayed*     | `Website`       | Allow you to earn money easily 💵💸            |
-| `fs wrapper`| *In Progress* | `npm package`   | File System has never been so easy 🧙‍♂️|
-| `debugger`  | *In Progress* | `npm package`   | allow you to debug things easily|
-
-My Plans and goals:
-
-1. Complete Projects ***(in progress)***
-2. Learn Html/css and make a website
-3. Learn Typescript ***(till 2023)***
-4. Learn Vue.js ***(middle of 2023)***
-5. Learn React.js ***(end of 2023)***
-6. Learn electron.js and make a mobile app ***(beginning of 2024)***
