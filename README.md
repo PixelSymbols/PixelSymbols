@@ -1,6 +1,8 @@
 
 
 ## 😃 About Me
+[🍩 Donate](https://boosty.to/pixsym) | [npm](https://www.npmjs.com/~pixelsymbols) | [codewars](https://www.codewars.com/users/PIXSYM)
+
 Hello, I'm a back-end stack developer. My name is ****.
 My journey started in 2019. I chose the C# language. The reason was Unity. 
 I wanted to make games, i liked Unity, so i chosen it.
