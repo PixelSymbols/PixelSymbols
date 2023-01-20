@@ -1,7 +1,7 @@
 
 
 ## 😃 About Me
-[🍩 Donate](https://boosty.to/pixsym) | [npm](https://www.npmjs.com/~pixelsymbols) | [codewars](https://www.codewars.com/users/PIXSYM)
+[🍩 Donate](https://pastebin.com/DXWMtVfs) | [npm](https://www.npmjs.com/~pixelsymbols) | [codewars](https://www.codewars.com/users/PIXSYM)
 
 ![img](https://www.codewars.com/users/PIXSYM/badges/large)
 
