@@ -108,3 +108,29 @@ puppeteer
 express.js
 inquirer
 ```
+
+Poem about javascript from chatGPT:
+```javascript
+`
+Violets are blue,
+JavaScript is my love,
+And my heart is true.
+My love for it will never die,
+Even though it makes me cry.
+But when it comes to coding,
+My love for it is unyielding.
+So here's to my one true love,
+JavaScript from above.
+But little did I know, my love for JavaScript will make me broke...
+
+But despite the cost and endless woes,
+I'll keep coding to my hearts repose
+For JavaScript is my guiding light,
+It helps me code into the night
+I'll never let it go, you see
+For JavaScript is a part of me
+So though the journey may be rough,
+I'll keep coding, that's enough
+For I am a true programmer,
+Forever in love with JavaScript's splendor.`
+```
