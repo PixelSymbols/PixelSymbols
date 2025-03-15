@@ -7,7 +7,7 @@
 
 Hello, I'm a back-end developer in Go-lang. My name is **** (i won't tell you 😏).
 - proud Go dev 😎
-- didn't finish any project that i started 😁
+- finished every project that i started 😎 yep, yea 😁
 - know python, have 3+ experience in it 🐍 (tired of it)
 - will write javascript/typescript under gun point (no, please no 😢😭)
 
